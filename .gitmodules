@@ -1,0 +1,6 @@
+[submodule "plugins/Bake"]
+	path = plugins/Bake
+	url = https://github.com/imo-tikuwa/bake.git
+[submodule "plugins/Migrations"]
+	path = plugins/Migrations
+	url = https://github.com/imo-tikuwa/migrations.git
